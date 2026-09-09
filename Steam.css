@@ -818,6 +818,20 @@ EG: "Play next" category names & "Sort by" dropdown */
 ._7EGqd8bdiXJBd2fj5Hh8r.MYyvJ6lNQZtM4MHwS-Y3g {
     background: var(--darkergrey);
 }
+
+.eKmEXJCm_lgme24Fp_HWt:not(._2QgNsvFPYTZ5yRiTm7mUyu).xIITXDcM70faUNqssgUyx, .eKmEXJCm_lgme24Fp_HWt:not(._2QgNsvFPYTZ5yRiTm7mUyu)._3hgIZByMuZIEiFspMRGFBw {
+    background: var(--begrey) !important; 
+}
+
+.MillenniumDesktopSidebar_Content {
+    background: var(--color-darker) !important;
+}
+
+.MillenniumDesktopSidebar_Title,
+.MillenniumDesktopSidebar_EditorHeader {
+    background: var(--color-darkest) !important;
+    box-shadow: none !important;
+}
 	
 /* Family Settings Page */
 ._2LyGIHuQ8SFKb5T262YUvg {
